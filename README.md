@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://assets-global.website-files.com/620d42e86cb8ec4d0839e59d/620d42e96cb8ecf3bf39f704_gif1%20v2.gif" align="center" style="width: 100%" />
+<img src="https://camo.githubusercontent.com/d052bb52bf4ce8c23732e2975f78b7b60c2954b86cbf1e54166be1040e06648d/68747470733a2f2f7777772e736567616c62656e7a2e636f6d2f73697465732f64656661756c742f66696c65732f53422d626c6f672d352d72657365617263682d73746174735f3131323432302d353530783330302e676966" align="center" style="width: 100%" />
 </div>  
 <img align="right" alt="Coding" width="400" heigh="80" src=https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif>
 
