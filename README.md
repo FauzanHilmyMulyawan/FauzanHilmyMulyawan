@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://miro.medium.com/max/1400/0*cPrF_XMe7U6atYgM.gif" align="center" style="width: 100%" />
 </div>  
-<img align="right" alt="Coding" width="400" src=https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif>
+<img align="right" alt="Coding" width="400" src=https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif>
 
 ### <div align="center">I'm Fauzan, a data enthusiast, 3rd year mathematics student.</div>  
   
