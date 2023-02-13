@@ -22,7 +22,7 @@
 
 
 ## Languages and Tools  
-<table><tr><td valign="top" width="33%">
+<tr><td valign="top" width="33%">
 
 <div align="center">  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" /></a>  
