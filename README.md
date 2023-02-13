@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://miro.medium.com/max/1400/0*cPrF_XMe7U6atYgM.gif" align="center" style="width: 100%" />
 </div>  
-  
+<img align="right" alt="Coding" width="400" src=https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif>
 
 ### <div align="center">I'm Fauzan, a data enthusiast, 3rd year mathematics student.</div>  
   
@@ -21,7 +21,7 @@
 <br/>  
 
 
-## My Skill Set  
+## Languages and Tools  
 <table><tr><td valign="top" width="33%">
 
 <div align="center">  
@@ -59,24 +59,7 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
-
-<br/>  
-
-
-## Github Stats  
-  
-
-<br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
+ 
 <br/>  
 
 <div align="center">
