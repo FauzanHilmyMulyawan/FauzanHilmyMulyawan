@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://miro.medium.com/max/1400/0*cPrF_XMe7U6atYgM.gif" align="center" style="width: 80%" />
+<img src="https://cdn.dribbble.com/users/2243198/screenshots/5791691/anim-5-800.gif" align="center" style="width: 80%" />
 </div>  
 <img align="right" alt="Coding" width="400" src=https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif>
 
