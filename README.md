@@ -1,7 +1,7 @@
 <div align="center">
-<img src="https://assets-global.website-files.com/620d42e86cb8ec4d0839e59d/620d42e96cb8ecf3bf39f704_gif1%20v2.gif" align="center" style="height: 80%" />
+<img src="https://assets-global.website-files.com/620d42e86cb8ec4d0839e59d/620d42e96cb8ecf3bf39f704_gif1%20v2.gif" align="center" style="width: 100%" />
 </div>  
-<img align="right" alt="Coding" width="400" src=https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif>
+<img align="right" alt="Coding" width="400" heigh="80" src=https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif>
 
 ### <div align="center">I'm Fauzan, a data enthusiast, 3rd year mathematics student.</div>  
   
